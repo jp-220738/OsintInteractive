@@ -1,5 +1,5 @@
-cmake_minimum_required(VERSION 3.29)
-project(CppTemplate)
+cmake_minimum_required(VERSION 3.25)
+project(OsintInteractive)
 
 set(CMAKE_CXX_STANDARD 20)
 
