@@ -1,0 +1,3 @@
+[submodule "External/OsintgramCXX"]
+	path = External/OsintgramCXX
+	url = https://github.com/BC100Dev/OsintgramCXX
